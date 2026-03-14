@@ -1,0 +1,13 @@
+# Vivado generated output
+*.runs/
+*.cache/
+*.sim/
+*.hw/
+*.gen/
+*.ip_user_files/
+.Xil/
+*.jou
+*.log
+*.dcp
+*.str
+archive_project_summary.txt
